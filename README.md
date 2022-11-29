@@ -1,4 +1,4 @@
-# ML = Machine Lrarning
+# ML = Machine Learning
 Тесты и эксперименты с [scikit-learn.org](https://scikit-learn.org/)
 
 Используются библиотеки
