@@ -13,3 +13,6 @@
      Кластеризация известного датасета [Iris](https://scikit-learn.org/stable/datasets/toy_dataset.html#iris-plants-dataset)
    * **gen_claster.ipynb** 
      Эксперименты на синтетическом сгенерированном наборе
+   * **KMeans_Clustering.ipynb** Конспект статьи *The Most Comprehensive Guide to K-Means Clustering You’ll Ever Need* 
+ [Отсюда](https://www.analyticsvidhya.com/blog/2019/08/comprehensive-guide-k-means-clustering/)
+  Самописный KMeans, корявый код, но работает. **data/KMeans_Clustering.csv** - Датасет 
